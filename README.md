@@ -1,8 +1,9 @@
-# chat_app
+# Chat
 
-A new Flutter project.
+Chat is a simple chatting app built using Flutter. It stores the user's info and messages in Firebase's Firestore database.
+![screenshots](https://github.com/MayankPatel85/ChatApp/assets/72483518/7859968b-6a72-4672-91c7-8f472e57e8d2)
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
