@@ -1,7 +1,9 @@
 # Chat
 
 Chat is a simple chatting app built using Flutter. It stores the user's info and messages in Firebase's Firestore database.
-![screenshots](https://github.com/MayankPatel85/ChatApp/assets/72483518/7859968b-6a72-4672-91c7-8f472e57e8d2)
+
+<img src="https://github.com/MayankPatel85/ChatApp/assets/72483518/c31ad963-3669-4322-b0f3-d3ea5c641116" alt="screenshot" height="700px">
+<img src="https://github.com/MayankPatel85/ChatApp/assets/72483518/b1211754-80ff-44e9-8822-1b75133382fb" alt="screenshot" height="700px">
 
 ### Getting Started
 
@@ -15,3 +17,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Chat1]()
+![Chat2]()
